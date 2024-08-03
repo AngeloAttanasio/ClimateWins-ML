@@ -1,4 +1,4 @@
-## Weather Conditions and Climate Change with ClimateWins
+## Weather Conditions and Climate Change with ClimateWins part 2
 
 ### Objective
 ClimateWins is a European nonprofit organization interested in using machine learning to help predict the consequences of climate change in Europe. My task was to take advantage of unsupervised machine learning models in order to come up with ideas useful to predict the consequences of climate change in Europe. 
